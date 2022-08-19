@@ -1,0 +1,5 @@
+C:\lewy\Desenvolvimento de software Visual\Aula02\obj\Debug\net5.0\Aula02.csproj.AssemblyReference.cache
+C:\lewy\Desenvolvimento de software Visual\Aula02\obj\Debug\net5.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\lewy\Desenvolvimento de software Visual\Aula02\obj\Debug\net5.0\Aula02.AssemblyInfoInputs.cache
+C:\lewy\Desenvolvimento de software Visual\Aula02\obj\Debug\net5.0\Aula02.AssemblyInfo.cs
+C:\lewy\Desenvolvimento de software Visual\Aula02\obj\Debug\net5.0\Aula02.csproj.CoreCompileInputs.cache
