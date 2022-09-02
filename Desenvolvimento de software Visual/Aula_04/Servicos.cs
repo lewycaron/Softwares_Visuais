@@ -50,7 +50,7 @@ namespace Aula_04{
         string filename;
         List<Usuario> usuarios;
 
-        public UserBase(){
+        public UserBase(string, f){
             filename = f;
             usuarios = new List<Usuario>();
             LoadUser();
